@@ -1,32 +1,43 @@
-# Hi, I'm Muhammad Rohaan 👋
+# 💫 About Me:
 
-### 🚀 About Me
-I'm Computer Science student at the University of Central Punjab and a passionate visual designer. I bridge the gap between software logic and visual communication, balancing academic programming, digital logic design, and creative brand design. Whether I am optimizing core logic or structuring user-facing visuals, I love building things from scratch.
+I am a Computer Science student at the University of Central Punjab and an aspiring software developer with a strong passion for core programming, problem-solving, and AI automation. I naturally bridge the gap between technical software logic and creative visual communication—balancing academic engineering, digital logic design, and strategic brand design. 
 
-- 🔭 **Current Focus:** Sharpening my foundational programming logic, developing hardware prototypes, and structuring digital logic circuits.
-- 🎨 **Creative Role:** Active Graphic Designer collaborating on campus event visuals, social media branding, and structured marketing layouts.
-- 🌱 **Learning & Exploring:** Advanced hardware prototyping, system security integrations, and efficient algorithm design.
+Whether I am optimizing low-level code, engineering hardware prototypes, or structuring user-facing visual layouts, I love building impactful systems completely from scratch. I am highly driven to learn, innovate, and grow within the tech industry.
 
----
-
-### 🛠️ Tech Stack & Skills
-
-* **Programming & Logic:** C++ (Procedural & Object-Oriented, manual memory management), Assembly Language,HTML
-* **Hardware & Prototyping:** Digital Logic Design (DLD), Integrated Circuits (74xx series), Breadboarding, Arduino Prototyping, Embedded Logic
-* **Design & Visuals:** Canva (Professional Layouts, Event Branding, Grid Structures, Visual Identity)
+- 🔭 **Current Focus:** Sharpening foundational programming logic, developing hardware prototypes, and implementing digital logic circuits.
+- 🎨 **Creative Role:** Active Graphic Designer collaborating on high-impact campus tech event visuals, social media branding, and structured marketing layouts.
+- 🌱 **Learning & Exploring:** AI automation workflows, system security integrations, and advanced algorithm design.
 
 ---
 
-### 📂 Featured Academic & Practical Projects
+# 🌐 Socials:
 
-* **Binary to Gray Code Converter:** Designed and implemented a hardware-level data conversion circuit utilizing fundamental digital logic gates.
-* **Campus Event Branding & Visuals:** Co-directed and designed comprehensive visual assets, social media frameworks, and promotional graphics for major campus tech competitions.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohaan-amir-9191b2284)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohaanamir66@gmail.com)
 
 ---
 
-### 📬 Connect with Me
+# 💻 Tech Stack:
 
-Let's collaborate on code, hardware, or creative design!
+✨ **Programming & Hardware:**
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-* 💼 LinkedIn: https://www.linkedin.com/in/rohaan-amir-9191b2284
-* 📧 Email: rohaanamir66@gmail.com
+🎨 **Frontend & Design:**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+🛠️ **Tools & Platforms:**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+# 📊 GitHub Stats:
+
+![Muhammad Rohaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=irohaanamir&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irohaanamir&layout=compact&theme=tokyonight)
