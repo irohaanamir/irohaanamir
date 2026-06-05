@@ -37,6 +37,6 @@ Whether I am optimizing low-level code, engineering hardware prototypes, or stru
 
 # 📊 GitHub Stats:
 
-![Muhammad Rohaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=irohaanamir&show_icons=true&theme=tokyonight&count_private=true)
+![Muhammad Rohaan's GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=irohaanamir&show_icons=true&theme=tokyonight&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irohaanamir&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=irohaanamir&layout=compact&theme=tokyonight)
